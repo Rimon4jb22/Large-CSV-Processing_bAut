@@ -1,4 +1,4 @@
-# Large-CSV-Prosessing_bAut
+# Large CSV Processing _bAut
 <h3> Worked on these problems when I was in my 1st job at bAut </h3>
 
 auto_sum.py = Summing Multiple Column Values at once.
